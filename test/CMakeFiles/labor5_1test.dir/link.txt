@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/labor5_1test.dir/Laborw5_1.cpp.o -o labor5_1test  ../lib/libgtest_main.a -lLaborw5_1.cpp ../lib/libgtest.a
