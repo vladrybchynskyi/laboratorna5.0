@@ -1,5 +1,5 @@
 # ninja log v6
-2	72	1727939720233531197	build.ninja	2a01148563e0db91
+2	72	1727940731902078996	build.ninja	2a01148563e0db91
 1	4	1727906367889915452	clean	1f0117926fe85a19
 7	74	1727908698591149583	test/CMakeFiles/labor5_1test.dir/Laborw5_1.cpp.o	7fe69eedc32d5791
 7	1466	1727908698590769130	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	c124e2f0ed1fc946
