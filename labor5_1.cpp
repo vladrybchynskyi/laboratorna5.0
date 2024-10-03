@@ -1,3 +1,4 @@
+#include "labor5_1.hpp"
 # include <iostream>
 # include <cmath>
 using namespace std;
