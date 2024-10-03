@@ -1,0 +1,22 @@
+Start testing: Oct 03 02:08 EEST
+----------------------------------------------------------
+1/1 Testing: labor5_1test
+1/1 Test: labor5_1test
+Command: "/Users/vladislav/Desktop/foruniversity/AP/cds/lb5/Labw51/build/test/labor5_1test"
+Directory: /Users/vladislav/Desktop/foruniversity/AP/cds/lb5/Labw51/build/test
+"labor5_1test" start time: Oct 03 02:08 EEST
+Output:
+----------------------------------------------------------
+Running main() from /Users/vladislav/Desktop/foruniversity/AP/cds/lb5/Labw51/googletest/googletest/src/gtest_main.cc
+[==========] Running 0 tests from 0 test suites.
+[==========] 0 tests from 0 test suites ran. (0 ms total)
+[  PASSED  ] 0 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"labor5_1test" end time: Oct 03 02:08 EEST
+"labor5_1test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 03 02:08 EEST
